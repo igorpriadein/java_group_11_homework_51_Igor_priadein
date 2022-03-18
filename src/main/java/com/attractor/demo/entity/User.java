@@ -1,4 +1,4 @@
-package com.attractor.demo;
+package com.attractor.demo.entity;
 
 
 import lombok.AllArgsConstructor;
